@@ -30,7 +30,7 @@
       <a-row id="summary" style="padding: 30px; background: turquoise;">
         <p style="color:white; font-family: ocr a; font-size:50px; margin:0;"> <b>Summary</b></p>
         <div class="text_box_sum" >
-          <p>Hello name is Nutchanart Maautsa age 23 years. Graduated from naresuan university Computer Science. Interested in working in a Frontend developer and want to learn a new language. Not studied </p>
+          <p>Hello name is Nutchanart Maautsa age 23 years. Graduated from naresuan university Computer Science. Interested in working in a Frontend developer and want to learn a new language. Not studied. </p>
         </div>
       </a-row>
 
